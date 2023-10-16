@@ -8,7 +8,7 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 text-transform: uppercase;
-width: 547px;
+width: 100%;
 height: 58px;
 flex-shrink: 0;
 }
@@ -22,11 +22,11 @@ font-size: 24px;
 font-style: normal;
 font-weight: 600;
 line-height: normal;
-width: 498.729px;
+width: 100%;
 }
 
 h1{
-  width: 547px;
+  width: 100%;
   height: 58px;
   flex-shrink: 0;
   color: #000;
@@ -44,14 +44,14 @@ h1{
 }
 
 .retangulo {
-  width: 1280px;
+  width: 100%;
   height: 316px;
   flex-shrink: 0;
   margin-top: 20px; /* Ajuste o valor do margin-top conforme necessário */
 }
 
 .retangulo2 {
-  width: 1280px;
+  width: 100%;
   height: 416px;
   flex-shrink: 0;
   background-color: #306CB4;
@@ -59,7 +59,7 @@ h1{
 }
 
 .retangulo3 {
-  width: 1280px;
+  width: 100%;
   height: 111px;
   flex-shrink: 0;
   background: #21386E;
@@ -76,7 +76,7 @@ h3 {
 }
 
 .retangulo4 {
-  width: 377.36px;
+  width: 100%;
   height: 55.12px;
   flex-shrink: 0;
   border-radius: 11.307px;
@@ -84,14 +84,14 @@ h3 {
 }
 
 .retangulo5 {
-  width: 377.36px;
+  width: 100%;
   height: 20.12px;
   flex-shrink: 0;
   border-radius: 11.307px;
 }
 
 .retangulo6 {
-  width: 377.36px;
+  width: 100%;
   height: 55.12px;
   flex-shrink: 0;
   border-radius: 11.307px;
